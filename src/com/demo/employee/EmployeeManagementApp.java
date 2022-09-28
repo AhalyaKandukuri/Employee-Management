@@ -9,7 +9,7 @@ import com.demo.serviceImpl.EmployeeServiceImpl;
 
 public class EmployeeManagementApp {
 	private static char[] allEmployees;
-
+	//MY  EMPLOYEE PROJECT
 	public static void main(String[] args)
 	{
 		int cases=1;
